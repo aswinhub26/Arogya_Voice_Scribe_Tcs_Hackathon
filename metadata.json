@@ -1,0 +1,6 @@
+{
+  "name": "Arogya Voice Scribe",
+  "description": "Offline-first Tamil voice EMR and clinical safety scribe for Primary Health Centre (PHC) doctors and nurses.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
